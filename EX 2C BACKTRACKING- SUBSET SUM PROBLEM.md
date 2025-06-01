@@ -1,5 +1,4 @@
 # EX 2C BACKTRACKING- SUBSET SUM PROBLEM
-## DATE:
 ## AIM:
 To demonstrate that the sum of the subset of a given set is equal to the given sum.
 
@@ -13,8 +12,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 ## Program:
 ```
 Program to implement Subset sum problem.
-Developed by: Saravanan PV
-Register Number: 212223230195
+Developed by: Naveen Kanthan L
+Register Number: 212223230138
 ```
 ```python
 def SubsetSum(a,i,sum,target,n):
