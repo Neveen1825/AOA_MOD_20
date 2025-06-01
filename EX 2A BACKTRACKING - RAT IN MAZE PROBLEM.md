@@ -1,5 +1,4 @@
 # EX 2A BACKTRACKING - RAT IN MAZE PROBLEM
-## DATE:
 ## AIM:
 To implement the Rat in a Maze problem using backtracking and find all possible paths from the start to the destination in a given maze.
 
@@ -14,8 +13,8 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 ## Program:
 ```
 Program to implement Rat in a Maze.
-Developed by: Saravanan PV
-Register Number: 212223230195  
+Developed by: Naveen Kanthan L
+Register Number: 212223230138
 ```
 ```python
 N = 4
